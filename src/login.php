@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PJL LOG</title>
+    <title>PLG LOG</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJcjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
-    <link rel="icon" type="image/x-icon" href="/assets/images/codigo.png">
+    <link rel="icon" type="image/x-icon" href="/assets/images/PLG_log.png">
     <link rel="stylesheet" href="/assets/style/login.css">
 </head>
 <body>

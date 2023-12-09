@@ -17,7 +17,7 @@ if (!isset($_SESSION["username"])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PJL LOG</title>
-    <link rel="icon" type="image/x-icon" href="/imagens/Logo_MEIM_1.png">
+    <link rel="icon" type="image/x-icon" href="/assets/images/PLG_log.png">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.19.0/font/bootstrap-icons.css"
         rel="stylesheet">
@@ -47,7 +47,7 @@ if (!isset($_SESSION["username"])) {
     </header>
     <nav class="navbar navbar-expand-lg bg-body-tertiary justify-content-center navbar-light bg-light">
         <a class="navbar-brand" href="/src/home.php">
-            <img src="/assets/images/codigo.png" alt="Logo PJL" width="30" height="24" class="d-inline-block align-text-top">
+            <img src="/assets/images/PLG_log.png" alt="Logo PLG" width="30" height="24" class="d-inline-block align-text-top">
             PLJ LOG
         </a>
         <ul class="nav">

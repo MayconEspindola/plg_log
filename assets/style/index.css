@@ -57,8 +57,8 @@ li a:hover{
     transition: 0.5s;
 }
 .navbar a:hover{
-    color: aliceblue;
-    background-color: aqua;
+    color: rgb(0, 0, 0);
+    background-color: rgb(7, 115, 238);
 }
 .content{
     height: 90px;
